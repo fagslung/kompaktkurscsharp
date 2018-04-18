@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kompaktkurs", "Kompaktkurs\Kompaktkurs.csproj", "{F2DC01FF-48A7-444D-85DE-6DD7E6EE06CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{83FB6518-0DA2-4827-86AD-9E2D68337440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2DC01FF-48A7-444D-85DE-6DD7E6EE06CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2DC01FF-48A7-444D-85DE-6DD7E6EE06CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2DC01FF-48A7-444D-85DE-6DD7E6EE06CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2DC01FF-48A7-444D-85DE-6DD7E6EE06CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83FB6518-0DA2-4827-86AD-9E2D68337440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FB6518-0DA2-4827-86AD-9E2D68337440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FB6518-0DA2-4827-86AD-9E2D68337440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FB6518-0DA2-4827-86AD-9E2D68337440}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
